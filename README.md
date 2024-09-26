@@ -1,6 +1,6 @@
 ---
 
-# Projeto de Pesquisa de Zodíaco 
+# Projeto de Pesquisa de Zodíaco futuras melhorias
 
 Este é um projeto acadêmico desenvolvido para a disciplina de **Desenvolvimento Web** no curso de **Analise e Desenvolvimento de sistemas** na **Faculdade Anhanguera**. O projeto consiste em uma aplicação web simples que explora as características dos signos do Zodíaco, utilizando **PHP** e **CSS** para implementar a lógica de backend e o design do frontend, respectivamente.
 
