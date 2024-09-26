@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <titulo>Arquivo de signos</titulo>
+    <signo>
+        <cod_signo>001</cod_signo>
+        <data_signo_ini>03-21</data_signo_ini>
+        <data_signo_fim>04-20</data_signo_fim>
+        <nome_signo>Áries</nome_signo>
+        <horoscopo>
+            Concentre suas energias nas relações de trabalho e na elaboração de contratos. Mercúrio retrógrado apontará
+            falhas e insatisfações. Detalhes e organização farão diferença nos resultados. Evite tom ríspido nas
+            comunicações; o momento cobrará clareza e paciência para chegar onde quer. Padrões de consumo e valores
+            poderão mudar. Por isso, evite compras por ansiedade e desperdício de dinheiro.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>002</cod_signo>
+        <data_signo_ini>04-21</data_signo_ini>
+        <data_signo_fim>05-20</data_signo_fim>
+        <nome_signo>Touro</nome_signo>
+        <horoscopo>
+            Surpresas e imprevistos marcarão o dia. Impulsione a carreira com novos projetos; este será um bom momento
+            para dar uma virada de vida, brilhar publicamente e aumentar o poder de influência. Formalizações ainda
+            passarão por revisões. Analise detalhes de contratos e batalhe por melhores condições. Uma oportunidade que
+            cairá na sua mão terá tudo para dar certo e estabilizar as finanças.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>003</cod_signo>
+        <data_signo_ini>05-21</data_signo_ini>
+        <data_signo_fim>06-20</data_signo_fim>
+        <nome_signo>Gêmeos</nome_signo>
+        <horoscopo>
+            Decida uma viagem, trate de documentos e coloque a vida em ordem. Um projeto pessoal poderá se concretizar.
+            Ganhe reputação e reconhecimento no trabalho. O dia trará novidades tecnológicas e soluções originais.
+            Assuma novos desafios e movimente a vida numa direção mais atraente. Marte em seu signo anuncia conquistas
+            pessoais importantes. Conte com mais coragem e parta para a ação!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>004</cod_signo>
+        <data_signo_ini>06-21</data_signo_ini>
+        <data_signo_fim>07-20</data_signo_fim>
+        <nome_signo>Câncer</nome_signo>
+        <horoscopo>
+            Aprofunde o tom das conversas e esclareça mal-entendidos. Um momento delicado nos relacionamentos cobrará as
+            palavras certas e escolhas criteriosas. Acerte documentos, organize ideias e planeje uma viagem para
+            reencontrar pessoas queridas. Valerá também aprender outro idioma ou fazer cursos de qualificação e ampliar
+            contatos. Aprenda com os erros e renove os sentimentos.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>005</cod_signo>
+        <data_signo_ini>07-21</data_signo_ini>
+        <data_signo_fim>08-20</data_signo_fim>
+        <nome_signo>Leão</nome_signo>
+        <horoscopo>
+            Determine prioridades e organize as finanças. Assuntos de família ganharão nova perspectiva. Elimine
+            pendências, resolva assuntos jurídicos e encerre o passado. Você poderá optar por uma virada radical de
+            vida. Amplie as comunicações, inicie relações em outro ambiente e renegocie contratos insatisfatórios.
+            Mercúrio retrógrado trará reflexões sobre investimentos e valores. Firme acordos.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>006</cod_signo>
+        <data_signo_ini>08-21</data_signo_ini>
+        <data_signo_fim>09-20</data_signo_fim>
+        <nome_signo>Virgem</nome_signo>
+        <horoscopo>
+            Administre seus recursos com novas soluções e diminua inquietudes. Caminhos de crescimento financeiro
+            ficarão mais claros. Aproveite o dia para pesquisar informações, ficar por dentro das notícias e esclarecer
+            dúvidas. Mercúrio retrógrado em seu signo cobrará reflexões e ajustes nos projetos pessoais. A fase será
+            favorável a mudanças e novos empreendimentos. Tome decisões sobre o futuro.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>007</cod_signo>
+        <data_signo_ini>09-21</data_signo_ini>
+        <data_signo_fim>10-20</data_signo_fim>
+        <nome_signo>Libra</nome_signo>
+        <horoscopo>
+            A fase favorecerá um novo começo de vida. Não alimente pensamentos repetitivos e supere os próprios
+            obstáculos. Encerre processos do passado e embarque em novas experiências. Marte incentivará viagens,
+            estudos e conexões internacionais. Se quer abrir caminhos, invista em você. Um sonho da vida familiar poderá
+            se realizar. Conte com mais segurança, brilho, poder de decisão e bons apoios.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>008</cod_signo>
+        <data_signo_ini>10-21</data_signo_ini>
+        <data_signo_fim>11-20</data_signo_fim>
+        <nome_signo>Escorpião</nome_signo>
+        <horoscopo>
+            Aproveite a passagem da Lua por seu signo para se cuidar com carinho e fazer as coisas que você gosta.
+            Magnetismo, empatia e poder de atração não faltarão hoje. Realize seus desejos secretos e dê mais
+            intensidade à vida: emoções estarão à flor da pele. Mergulhe nos sentimentos, aprofunde o diálogo com o par
+            ou amigos e descubra novas motivações. O dia trará revelações significativas.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>009</cod_signo>
+        <data_signo_ini>11-21</data_signo_ini>
+        <data_signo_fim>12-20</data_signo_fim>
+        <nome_signo>Sagitário</nome_signo>
+        <horoscopo>
+            Mais frágil, a saúde pedirá descanso e espaços de relaxamento. Faça uma massagem ou pratique meditação e
+            restaure suas energias. Um pouco de sossego alimentará a alma. Trocas de mensagens e encontros darão
+            segurança; diminua preocupações com o futuro e valorize o momento presente. Pequenas atitudes farão
+            diferença no amor. Uma resposta profissional será positiva. Prestígio em alta!
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>010</cod_signo>
+        <data_signo_ini>12-21</data_signo_ini>
+        <data_signo_fim>01-20</data_signo_fim>
+        <nome_signo>Capricórnio</nome_signo>
+        <horoscopo>
+            Encontro inesperado ou imprevisto com uma amizade agitará o clima. O dia cobrará flexibilidade e antenas
+            ligadas nos acontecimentos coletivos. Proposta de longe acelerará decisões de trabalho ou de viagem. Você
+            poderá aprovar um projeto e garantir mais estabilidade financeira. Caminhos para o futuro estarão
+            iluminados. Espere por sucesso e visibilidade profissional.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>011</cod_signo>
+        <data_signo_ini>01-21</data_signo_ini>
+        <data_signo_fim>02-20</data_signo_fim>
+        <nome_signo>Aquário</nome_signo>
+        <horoscopo>
+            O dia será de decisões sérias na vida pessoal e na carreira. Visualize novos planos, defina prazos e invista
+            no seu futuro. Respostas existenciais e íntimas incentivarão mudanças e reestruturações de vida. Se planejar
+            direitinho, tudo dará certo! Desfaça confusões nas contas ou em contratos de serviço e tome cuidado com
+            fraudes. Questões de justiça estarão favorecidas. Abrace causas coletivas.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>012</cod_signo>
+        <data_signo_ini>02-21</data_signo_ini>
+        <data_signo_fim>03-20</data_signo_fim>
+        <nome_signo>Peixes</nome_signo>
+        <horoscopo>
+            Imprevistos em viagem ou processo jurídico alterarão planos. O dia também trará surpresas e proposta
+            inesperada. Ligue o radar nas oportunidades e soluções financeiras. Portas poderão se abrir em meio a
+            confusões. Bases firmes na vida familiar darão tranquilidade e segurança. Aproveite boas condições para
+            preservar o patrimônio, negociar um imóvel e garantir mais segurança para o futuro.
+        </horoscopo>
+    </signo>
+</signos>
